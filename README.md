@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/Wiles/sanctuary-patient-api/workflows/Node.js%20CI/badge.svg)
+
 # sanctuary-api
 
 ### Setup Dev Environment
